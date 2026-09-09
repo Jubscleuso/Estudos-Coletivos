@@ -1,0 +1,19 @@
+body {
+    background-color: mediumseagreen;
+}
+
+h1 {
+    color: blue;
+    font-size: 56px;
+
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: darkviolet;
+    font-size: 32px;
+
+}
